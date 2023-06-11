@@ -21,7 +21,7 @@
   content: "";
   width: 75px;
   height: 75px;
-  border: 15px solid rgb(187, 187, 187);
+  border: 10px solid rgb(187, 187, 187);
   border-top-color:#0015ff;
   border-radius: 50%;
   animation: loading 0.75s ease infinite;
