@@ -2,7 +2,7 @@
 # General
 --------------------------------------------------------------*/
 body {
-  font-family: 'Century Gothic';
+  font-family: 'Poppins';
   font-weight: 400;
   font-size: larger;
   color: rgb(84, 45, 226);
@@ -12,7 +12,7 @@ body {
 }
 .reg{
   font-weight: 100;
-  font-family: 'Century Gothic';
+  font-family: 'Poppins';
   font-size: 25px;
 }
 
@@ -29,11 +29,11 @@ p{
   font-weight: 500;
 }
 h1, h2, h3, h4, h5, h6, .font-primary {
-  font-family: 'Century Gothic';
+  font-family: 'Poppins';
   font-weight: 600;
 }
 p{
- font-family: 'Century Gothic';
+ font-family: 'Poppins';
  font-weight: 700;
  font-size: 15px;
  color: rgb(117, 116, 116);
@@ -102,7 +102,7 @@ ul.removeBulletAddTick {
   margin-top: -40px;
 
   font-size: 20px;
-  font-family: 'Century Gothic';
+  font-family: 'Poppins';
   font-weight: 600;
   letter-spacing: 2px;
 }
@@ -110,7 +110,7 @@ ul.removeBulletAddTick {
   margin-left: -0.5px;
   font-size: 22px;
   margin-bottom: 15px;
-  font-family: 'Century Gothic';
+  font-family: 'Poppins';
   font-weight: 600;
   letter-spacing: 0px;
  
@@ -224,7 +224,7 @@ ul.removeBulletAddTick {
   align-items: center;
   justify-content: space-between;
   padding: 10px 0 10px 30px;
-  font-family: "Open Sans", sans-serif;
+  font-family: 'Poppins';
   font-weight: 600;
   font-size: 14px;
   color: #fff;
@@ -236,7 +236,7 @@ ul.removeBulletAddTick {
   align-items: center;
   justify-content: space-between;
   padding: 10px 0 10px 30px;
-  font-family: "Open Sans", sans-serif;
+  font-family: 'Poppins';
   font-weight: 600;
   font-size: 14px;
   color: #fff;
@@ -484,7 +484,7 @@ nav.fill ul li a:hover:after {
   height: auto;
 }
 #hero .btn-get-started {
-  font-family: 'Century Gothic';
+  font-family: 'Poppins';
   font-weight: 600;
   font-size: 14px;
   letter-spacing: 1px;
@@ -579,7 +579,7 @@ nav.fill ul li a:hover:after {
   color: #fff;
 }
 #hero-no-slider .btn-get-started {
-  font-family: 'Century Gothic';
+  font-family: ''Poppins'';
   font-weight: 500;
   font-size: 14px;
   letter-spacing: 1px;
@@ -1165,7 +1165,7 @@ ul{
 .facts .counters p {
   padding: 0;
   margin: 10px 10px 20px 10px;
-  font-family: 'Century Gothic';
+  font-family: 'Poppins';
   font-size: 14px;
 }
 @media (max-width: 768px) {
@@ -1393,7 +1393,7 @@ ul{
   font-size: 46px;
   color: #68A4C4;
   font-weight: 400;
-  font-family: 'Century Gothic';
+  font-family: ''Poppins'';
   margin-bottom: 25px;
 }
 .pricing h4 span {
@@ -1434,7 +1434,7 @@ ul{
   transition: none;
   font-size: 14px;
   font-weight: 400;
-  font-family: 'Century Gothic';
+  font-family: 'Poppins';
   transition: 0.3s;
 }
 .pricing .get-started-btn:hover {
@@ -1492,7 +1492,7 @@ ul{
   color: #444;
   transition: all 0.3s ease-in-out;
   border-bottom: 2px solid #fff;
-  font-family: 'Century Gothic';
+  font-family: 'Poppins';
 }
 .portfolio #portfolio-flters li:hover, .portfolio #portfolio-flters li.filter-active {
   border-color: #68A4C4;
@@ -2315,7 +2315,7 @@ ul{
   font-size: 14px;
   line-height: 24px;
   margin-bottom: 0;
-  font-family: 'Century Gothic';
+  font-family: 'Poppins';
   color: #fff;
 }
 #footer .footer-top .social-links a {
