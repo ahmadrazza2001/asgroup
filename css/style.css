@@ -23,9 +23,8 @@
   height: 75px;
   border: 7px solid rgb(213, 213, 213);
   border-top-color:#2747ff;
-  border-top-right:20px;
   border-radius: 50%;
-  animation: loading 0.75s ease infinite;
+  animation: loading 1s ease infinite;
 }
 @keyframes loading{
   from {transform: rotate(0turn);}
