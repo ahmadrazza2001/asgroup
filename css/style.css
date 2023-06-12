@@ -23,6 +23,7 @@
   height: 75px;
   border: 7px solid rgb(213, 213, 213);
   border-top-color:#2747ff;
+  border-top-right-radius:70%;
   border-radius: 50%;
   animation: loading 0.75s ease infinite;
 }
